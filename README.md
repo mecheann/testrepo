@@ -1,1 +1,5 @@
-# Repo for Getting Started with Git and GitHub Course on Coursera
+# testrepo
+
+## Editing the file
+
+It's a markdown file in this repository
